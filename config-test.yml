@@ -1,1 +1,2 @@
-a
+config:
+  info: master-test,version = 1
